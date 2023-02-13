@@ -2,3 +2,4 @@ resources/*
 node_modules/*
 assets/jsconfig.json
 .DS_Store
+public/
